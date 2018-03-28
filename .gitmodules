@@ -10,3 +10,6 @@
 [submodule "MatlabToolbox"]
 	path = MatlabToolbox
 	url = https://github.com/IoSR-Surrey/MatlabToolbox.git
+[submodule "amtoolbox-code"]
+	path = amtoolbox-code
+	url = https://git.code.sf.net/p/amtoolbox/code

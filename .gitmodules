@@ -13,3 +13,6 @@
 [submodule "amtoolbox-code"]
 	path = amtoolbox-code
 	url = https://git.code.sf.net/p/amtoolbox/code
+[submodule "amtoolbox-www"]
+	path = amtoolbox-www
+	url = https://git.code.sf.net/p/amtoolbox/www

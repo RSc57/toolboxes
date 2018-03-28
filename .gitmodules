@@ -1,0 +1,12 @@
+[submodule "toolbox"]
+	path = toolbox
+	url = https://git.rwth-aachen.de/ita/toolbox.git
+[submodule "export_fig"]
+	path = export_fig
+	url = https://github.com/altmany/export_fig.git
+[submodule "TwoEars"]
+	path = TwoEars
+	url = https://github.com/TWOEARS/TwoEars.git
+[submodule "MatlabToolbox"]
+	path = MatlabToolbox
+	url = https://github.com/IoSR-Surrey/MatlabToolbox.git
